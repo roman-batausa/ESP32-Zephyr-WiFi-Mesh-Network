@@ -76,7 +76,7 @@ static const mesh_topology_t topology_map[] = {
 
 ### Prerequisites
 
-- Zephyr RTOS SDK (v3.5+ recommended)
+- Zephyr RTOS SDK (v3.5+ recommended, v4.1 used for this project)
 - ESP-IDF toolchain for Zephyr
 - West build tool
 
