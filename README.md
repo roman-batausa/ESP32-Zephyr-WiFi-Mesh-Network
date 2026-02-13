@@ -1,6 +1,6 @@
 # ESP32 Zephyr WiFi Mesh Network
 
-A custom WiFi mesh networking implementation for ESP32 using Zephyr RTOS. This project creates a tree-topology mesh network where nodes communicate via UDP sockets, with support for clock synchronization, automatic routing, and visual status indication via LEDs.
+A custom WiFi mesh networking implementation for ESP32 using Zephyr RTOS. This project creates a tree-topology mesh network where nodes communicate via UDP sockets, with support for mesh clock synchronization, static routing, and visual status indication via LEDs.
 
 ## Features
 
